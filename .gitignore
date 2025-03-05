@@ -1,0 +1,10 @@
+assets
+lua
+manifest
+plugins
+lime.ndll
+.temp
+libvlccore.dll
+libvlc.dll
+icon.ico
+CodenameEngine.exe

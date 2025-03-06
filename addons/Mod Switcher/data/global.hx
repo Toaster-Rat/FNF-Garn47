@@ -1,5 +1,5 @@
 import funkin.backend.assets.ModsFolder;
 
 function preStateSwitch()
-    if (ModsFolder.currentModFolder != 'FNFGarn47')
-        ModsFolder.switchMod('FNFGarn47');
+    if (ModsFolder.currentModFolder != 'FNF Garn47')
+        ModsFolder.switchMod('FNF Garn47');

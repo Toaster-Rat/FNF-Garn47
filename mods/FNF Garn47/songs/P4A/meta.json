@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 110,
+	"difficulties": [
+		"GARN"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "P4A",
+	"icon": "Icon",
+	"name": "P4A",
+	"color": "#FFFFFF"
+}
